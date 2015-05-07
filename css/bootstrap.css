@@ -4471,7 +4471,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #f7f7f7;
+  background-color: lavender;
   border-color: #e7e7e7;
 }
 
@@ -4533,7 +4533,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
-  border-top-color: #333333;
+  border-top-color: purple;
   border-bottom-color: #333333;
 }
 
